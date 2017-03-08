@@ -1,0 +1,21 @@
+{
+  "1": {
+    "items": [
+      {
+        "title": "Web Dapps",
+        "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/connected.jpg",
+        "markdown": "With Parity 1.5 support for accessing web-based dapps are build right into the client. Accessing any dapp is as simple as visiting the dapp using the [built-in browser](#/web)."
+      },
+      {
+        "title": "User walk-through",
+        "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/reviews.jpg",
+        "markdown": "We love our community. And we really love the feedback that we receive that feeds into our release process.\n\nRecently we stumbled accross a new user walk-though of our latest release, which we really liked, as did the community on Reddit. [MrYukonC's Parity walk-though](https://www.youtube.com/watch?v=2aI3HXSDFy8)."
+      },
+      {
+        "title": "Parity 1.5",
+        "background": "https://cdn.rawgit.com/jacogr/parity-news/f087cc93981ffa40b9aabbf5865991bc1bfc5f01/images/takeout.jpg",
+        "markdown": "Packed with more features than ever before, the Parity 1.5 release is one we are immensely proud of. It certainly caused a stir in the community, even if it was just about the dress sense (or lack thereof?) of some of our developers.\n\n[Read the release accouncement](https://blog.ethcore.io/introducing-parity-1-5-nativity/).",
+      }
+    ]
+  }
+}
