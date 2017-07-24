@@ -3,13 +3,13 @@
     "items": [
       {
         "title": "Kovan Network",
-        "background": "https://raw.githubusercontent.com/ethcore/parity-news/7faed0a4d271174357a9b8a2d932b307a09f3298/images/lab.jpg",
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/c4adb5921981f86b8e094fa416a4e18013d90207/images/chemistry.jpg",
         "markdown": "[Kovan](https://github.com/kovan-testnet/proposal) is a new community driven test network that runs on the Parity Aura Proof Of Authority consensus engine.\n\nWith a consistent 4 second blocktime, immunity to proof of work spam attacks, the network allows developers to develop their applications on a reliable platform. While in an early phase, it already has proven itself to be consistent and available, with all the tools you have come to expect from a testnet ecosystem.\n\nTo learn more, ready the original [press release](http://www.ibtimes.co.uk/parity-pushes-new-ethereum-testnet-kovan-after-spam-attacks-1609901) or join us on [gitter](https://gitter.im/kovan-testnet/Lobby)."
       },
       {
         "title": "Questions?",
-        "background": "https://raw.githubusercontent.com/ethcore/parity-news/454f1c2b2e92dab0a601479fcb5990f4b046954c/images/questions.jpg",
-        "markdown": "Have questions? We would like to get them answered. The [Parity wiki](https://github.com/ethcore/parity/wiki) should be the first stop for any general questions in running the software, configuring it or just trying out some of the basic or advanced features of Parity, either as a user, developer or miner.\n\nIf you prefer direct interaction with the team, join us on our [gitter channel](https://gitter.im/ethcore/parity) and feel free to ask any questions."
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/c4adb5921981f86b8e094fa416a4e18013d90207/images/blackboard.jpg",
+        "markdown": "Have questions? We would like to get them answered. The [Parity wiki](https://github.com/paritytech/parity/wiki) should be the first stop for any general questions in running the software, configuring it or just trying out some of the basic or advanced features of Parity, either as a user, developer or miner.\n\nIf you prefer direct interaction with the team, join us on our [gitter channel](https://gitter.im/paritytech/parity) and feel free to ask any questions."
       }
     ]
   }
