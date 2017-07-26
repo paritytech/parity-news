@@ -1,0 +1,21 @@
+{
+  "1": {
+    "items": [
+      {
+        "title": "Ropsten Revival",
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/e996f821b74f2a723c41ac2362a258606d938060/images/chemistry.jpg",
+        "markdown": "We are pleased to [announce](https://github.com/ethereum/ropsten/blob/master/revival.md) that the Ropsten testnet has been revived! Thanks to a generous donation of GPU hashpower, the Ropsten chain has been cleared of the spam blocks that had accumulated in a [recent attack](http://ethereum.stackexchange.com/q/12477).\n\nWhile there is a trend toward adoption of alternative [proof-of-authority](https://github.com/paritytech/parity/wiki/Proof-of-Authority-Chains) consensus protocols for Ethereum testnets, such as [Kovan](https://github.com/kovan-testnet/proposal), Ropsten as a public proof-of-work Ethereum testnet remains relevant for multiple reasons.\n\nSince the Ethereum mainnet still operates based on PoW consensus, a PoW testnet best reproduces the current production environment, i.e. system and network conditions on the live Ethereum mainnet. Thus, Ropsten is useful for experiments to investigate certain issues that we observe today on the mainnet, such as the relation between uncle rates and gas prices. And for Dapp developers, Ropsten is useful for realistic tests of back-end performance (i.e. mainnet transactions and block times) and front-end user experience. If you have any questions, join the [gitter chat](http://gitter.im/ethereum/ropsten)."
+      },
+      {
+        "title": "Security Alert",
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/446e2484d3fa600f05a326637441eb39b52ffee7/images/ladybird.jpg",
+        "markdown": "On Wednesday 19th July, 2017 a bug found in the multi-signature wallet ('multi-sig') code used as part of Parity Wallet software was exploited by parties unknown. As of the time of writing, three wallet accounts holding large balances of ETH have been compromised and the balances moved into accounts held by the attacker. The self-titled 'White Hat Group' used the same exploit to secure the other compromised wallets within Ethereum, with the stated intention of returning control to the original owners.\n\nRead the full [security alert](https://blog.parity.io/security-alert-high-2/), the [postmortem](https://blog.parity.io/the-multi-sig-hack-a-postmortem/), and learn about our new [bug bounty program](https://blog.parity.io/announcing-parity-bug-bounty-program/) on our blog."
+      },
+      {
+        "title": "Questions?",
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/e996f821b74f2a723c41ac2362a258606d938060/images/blackboard.jpg",
+        "markdown": "Have questions? We would like to get them answered. The [Parity wiki](https://github.com/paritytech/parity/wiki) should be the first stop for any general questions in running the software, configuring it or just trying out some of the basic or advanced features of Parity, either as a user, developer or miner.\n\nIf you prefer direct interaction with the team, join us on our [gitter channel](https://gitter.im/paritytech/parity) and feel free to ask any questions."
+      }
+    ]
+  }
+}
