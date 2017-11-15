@@ -9,7 +9,7 @@
       {
         "title":"Security: The Multi-Sig Library Self-Destruct",
         "background":"https://raw.githubusercontent.com/paritytech/parity-news/39783aaff0d03c49316e5e2a0838fb20fcaf552a/images/ladybird.jpg",
-        "markdown":"On Monday, November 6th, 2017 02:33:47 PM UTC, a vulnerability in the 'library' smart contract code, deployed as a shared component of all Parity multi-sig wallets deployed after July 20th, 2017, was found by an anonymous user. The user decided to exploit this vulnerability and made himself the 'owner' of the library contract. Subsequently, the user destructed this component. Since Parity multi-signature wallets depend on this component, this action blocked funds in 587 wallets holding a total amount of 513,774.16 Ether as well as additional tokens. Read [the full postmortem at our blog](https://paritytech.io/blog/security-is-a-process-a-postmortem-on-the-parity-multi-sig-library-self-destruct.html).",
+        "markdown":"On Monday, November 6th, 2017 02:33:47 PM UTC, a vulnerability in the 'library' smart contract code, deployed as a shared component of all Parity multi-sig wallets deployed after July 20th, 2017, was found by an anonymous user. The user decided to exploit this vulnerability and made himself the 'owner' of the library contract. Subsequently, the user destructed this component. Since Parity multi-signature wallets depend on this component, this action blocked funds in 587 wallets holding a total amount of 513,774.16 Ether as well as additional tokens. Read [the full postmortem on our blog](https://paritytech.io/blog/security-is-a-process-a-postmortem-on-the-parity-multi-sig-library-self-destruct.html).",
         "style":{
           "body":{
             "background":"rgba(255, 50, 50, 1)",
