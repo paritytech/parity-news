@@ -2,7 +2,7 @@
   "1":{
     "items":[
       {
-        "title":"Parity 1.8",
+        "title":"Parity 1.8 Released",
         "background":"https://raw.githubusercontent.com/paritytech/parity-news/3f7be40e696db0cf03915655707b74a06791f71f/images/sun-fog.jpg",
         "markdown":"Winter may be coming but the moment you've all been waiting for has finally arrived: Parity Tech is excited to announce the release of the bigger and better **1.8.0**! This release will see light client improvements: Proof-of-Authority chain compatibility, even with dynamic authority sets, and also feature compatibility with the Whisper v6 wire protocol. Read [more on the blog](https://paritytech.io/blog/announcing-parity-1-8.html)."
       },
