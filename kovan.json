@@ -7,6 +7,11 @@
         "markdown": "Winter may be coming but the moment you've all been waiting for has finally arrived: Parity Tech is excited to announce the release of the bigger and better **1.8.0**! This release will see light client improvements: Proof-of-Authority chain compatibility, even with dynamic authority sets, and also feature compatibility with the Whisper v6 wire protocol. Read [more at the blog](https://paritytech.io/blog/announcing-parity-1-8.html)."
       },
       {
+        "title": "Parity ICO Passport Service",
+        "background": "https://raw.githubusercontent.com/paritytech/parity-news/d57dc3f2e29706399bf48da3c36cb1e8b1fb718b/images/identity.jpg",
+        "markdown": "**PICOPS** (Parity ICO Passport Service) is a new service, created and hosted by Parity Technologies which enables members of the public worldwide to associate a single Ethereum address with their unique identity; more precisely, the service offers a means to validate that the owner of an Ethereum wallet has passed an ID background check stating that they are not part of a restricted set of users (e.g. US citizen or individuals on official watchlists). Learn about [PICOPS on our blog](https://paritytech.io/blog/parity-technologies-launches-picops.html)."
+      },
+      {
         "title": "Kovan Network",
         "background": "https://raw.githubusercontent.com/paritytech/parity-news/e996f821b74f2a723c41ac2362a258606d938060/images/chemistry.jpg",
         "markdown": "[Kovan](https://github.com/kovan-testnet/proposal) is the community driven test network that runs on the Parity [Aura](https://github.com/paritytech/parity/wiki/Aura) proof-of-authority consensus engine.\n\nWith a consistent 4 second blocktime, immunity to proof-of-work spam attacks, the network allows developers to develop their applications on a reliable platform. While in an early phase, it already has proven itself to be consistent and available, with all the tools you have come to expect from a testnet ecosystem.\n\nTo learn more, read the original [press release](http://www.ibtimes.co.uk/parity-pushes-new-ethereum-testnet-kovan-after-spam-attacks-1609901) or join us on [gitter](https://gitter.im/kovan-testnet/Lobby)."
