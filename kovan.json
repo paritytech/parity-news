@@ -2,56 +2,9 @@
   "1":{
     "items":[
       {
-        "title":"Parity 1.8 Released",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/3f7be40e696db0cf03915655707b74a06791f71f/images/sun-fog.jpg",
-        "markdown":"Winter may be coming but the moment you've all been waiting for has finally arrived: Parity Tech is excited to announce the release of the bigger and better **1.8.0**! This release will see light client improvements: Proof-of-Authority chain compatibility, even with dynamic authority sets, and also feature compatibility with the Whisper v6 wire protocol. Read [more on the blog](https://paritytech.io/blog/announcing-parity-1-8.html)."
-      },
-      {
-        "title":"Hard-Fork: Kovan-Testnet Enables Byzantium Features",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/ecacfaf7b7c643b1b686982189bfa5cef88c2093/images/fork.jpg",
-        "markdown":"Heads up! Parity [1.7.10 stable](https://github.com/paritytech/parity/releases/tag/v1.7.10) and Parity [1.8.4 beta](https://github.com/paritytech/parity/releases/tag/v1.8.4) apply fixes for Proof-of-Authority networks and **schedule the Kovan-Byzantium hard-fork**. The **Kovan testnet will fork on block `5067000` this Thursday**! This enables Byzantium features and disables uncles on Kovan for stability reasons.\n\nPlease upgrade your testnet nodes to [1.7.10 stable](https://github.com/paritytech/parity/releases/tag/v1.7.10) or Parity [1.8.4 beta](https://github.com/paritytech/parity/releases/tag/v1.8.4). If you run a custom Proof-of-Authority network, you might want to read the release nodes carefully to upgrade your custom networks, too. Please ask any questions on [Gitter](https://gitter.im/kovan-testnet/Lobby).",
-        "style":{
-          "body":{
-            "background":"rgba(255, 50, 50, 1)",
-            "color":"rgba(255, 255, 255, 0.9)"
-          },
-          "head":{
-            "background":"rgba(255, 50, 50, 0.75)",
-            "color":"white"
-          },
-          "tags":{
-            "a":{
-              "color":"white",
-              "textDecoration":"underline"
-            }
-          }
-        }
-      },
-      {
-        "title":"Security: The Multi-Sig Library Self-Destruct",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/39783aaff0d03c49316e5e2a0838fb20fcaf552a/images/ladybird.jpg",
-        "markdown":"On Monday, November 6th, 2017 02:33:47 PM UTC, a vulnerability in the 'library' smart contract code, deployed as a shared component of all Parity multi-sig wallets deployed after July 20th, 2017, was found by an anonymous user. The user decided to exploit this vulnerability and made himself the 'owner' of the library contract. Subsequently, the user destructed this component. Since Parity multi-signature wallets depend on this component, this action blocked funds in 587 wallets holding a total amount of 513,774.16 Ether as well as additional tokens. Read [the full postmortem on our blog](https://paritytech.io/blog/security-is-a-process-a-postmortem-on-the-parity-multi-sig-library-self-destruct.html).",
-        "style":{
-          "body":{
-            "background":"rgba(255, 50, 50, 1)",
-            "color":"rgba(255, 255, 255, 0.9)"
-          },
-          "head":{
-            "background":"rgba(255, 50, 50, 0.75)",
-            "color":"white"
-          },
-          "tags":{
-            "a":{
-              "color":"white",
-              "textDecoration":"underline"
-            }
-          }
-        }
-      },
-      {
-        "title":"Parity ICO Passport Service",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/d57dc3f2e29706399bf48da3c36cb1e8b1fb718b/images/identity.jpg",
-        "markdown":"**PICOPS** (Parity ICO Passport Service) is a new service, created and hosted by Parity Technologies which enables members of the public worldwide to associate a single Ethereum address with their unique identity; more precisely, the service offers a means to validate that the owner of an Ethereum wallet has passed an ID background check stating that they are not part of a restricted set of users (e.g., US citizen or individuals on official watchlists). Learn about [PICOPS on our blog](https://paritytech.io/blog/parity-technologies-launches-picops.html)."
+        "title":"Parity 1.9 Released",
+        "background":"https://raw.githubusercontent.com/paritytech/parity-news/4b9a4ac51203739853083ccc2027d19dcdf0b572/images/speed.jpg",
+        "markdown":"Dear Ethereum communities, dear blockchain developers, dear decentralization enthusiasts: Parity Technologies is thrilled to announce the latest release: Parity 1.9 or 'Velocity'. We’ve knuckled down and implemented a bunch of optimisation and polish to help ensure everyone gets a stellar performance. Read [on our blog about a few of the things we’ve been working at](http://paritytech.io/velocity-the-fastest-parity-released/)."
       },
       {
         "title":"Kovan Network",
