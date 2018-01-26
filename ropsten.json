@@ -14,7 +14,7 @@
       {
         "title":"Questions?",
         "background":"https://raw.githubusercontent.com/paritytech/parity-news/e996f821b74f2a723c41ac2362a258606d938060/images/blackboard.jpg",
-        "markdown":"Have questions? We would like to get them answered. The [Parity wiki](https://github.com/paritytech/parity/wiki) should be the first stop for any general questions in running the software, configuring it or just trying out some of the basic or advanced features of Parity, either as a user, developer or miner.\n\nIf you prefer direct interaction with the team, join us on our [gitter](https://gitter.im/paritytech/parity) or [riot](https://riot.im/app/#/room/#parity-watercooler:matrix.org) channel and feel free to ask any questions."
+        "markdown":"Have questions? We would like to get them answered. The [Parity wiki](https://paritytech.github.io/wiki/) should be the first stop for any general questions in running the software, configuring it or just trying out some of the basic or advanced features of Parity, either as a user, developer or miner.\n\nIf you prefer direct interaction with the team, join us on our [gitter](https://gitter.im/paritytech/parity) or [riot](https://riot.im/app/#/group/+parity:matrix.parity.io) channel and feel free to ask any questions."
       }
     ]
   }
