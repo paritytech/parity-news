@@ -2,24 +2,24 @@
   "1":{
     "items":[
       {
-        "title":"Parity 1.10 'Opportunity' released.",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/6effcd6f58967abaae15026e03253f28e1ce0fc7/images/choice.png",
-        "markdown":"Parity is continuing its mission to develop trailblazing, next-generation technology for the decentralised web. Today, we announce the first beta release of the Parity Ethereum client version 1.10 'Opportunity'! Read more [on our blog](http://paritytech.io/parity-1-10-opportunity-released/)."
+        "title":"Parity 1.11 Beta Released",
+        "background":"https://raw.githubusercontent.com/paritytech/parity-news/c22664bbad2c2d6fb2b8b56a996b5ae9e301cf79/images/beach.jpg",
+        "markdown":"[Parity 1.11 Beta](https://github.com/paritytech/parity/releases/tag/v1.11.1) is here: a faster, more extensible Ethereum client. This huge update to Parity Ethereum allows you to create encrypted contracts and transactions on-chain and warp-sync to specific blocks. [Read more](https://paritytech.io/parity_1_11_beta_private_transactions/)."
       },
       {
-        "title":"Fighting hunger with a Parity blockchain.",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/6effcd6f58967abaae15026e03253f28e1ce0fc7/images/hands.png",
-        "markdown":"As millions continue to be affected by conflict and natural disasters, the [UN World Food Programme (WFP)](http://wfp.org/) has recognised the potential of blockchain as a tool that can help feed the hungry. Read more [on our blog](http://paritytech.io/fighting-hunger-with-blockchain/)."
-      },
-      {
-        "title":"Scaling ÐApps with Parity Bridge.",
-        "background":"https://raw.githubusercontent.com/paritytech/parity-news/6effcd6f58967abaae15026e03253f28e1ce0fc7/images/bridge.png",
-        "markdown":"Transaction fees on the Ethereum main network have risen to rates that are far too expensive for ÐApps to run efficiently. Decentralised initiatives such as [Giveth](https://giveth.io/) and [Swarm.City](https://swarm.city/) have seen their projects hampered by high gas costs, forcing them to look for alternative ways to securely run their ÐApps. Read more [on our blog](http://paritytech.io/bridging-the-dapp-scaling-now-with-parity-bridge/)."
-      },
-      {
-        "title":"Parity enlists Trail of Bits to lead security review.",
+        "title":"Our new smart contract development processes",
         "background":"https://raw.githubusercontent.com/paritytech/parity-news/6effcd6f58967abaae15026e03253f28e1ce0fc7/images/ladybird.jpg",
-        "markdown":"After receiving many proposals from security auditing firms, we are excited to announce that we have chosen [Trail of Bits](https://www.trailofbits.com/) to review and if indicated, improve the security of our code. Read more [on our blog](http://paritytech.io/parity-technologies-appoints-trail-of-bits-to-lead-security-review/)."
+        "markdown":"We founded Parity Technologies with the aspiration to write the best and safest software we can. We’ve learned a lot from our past mistakes. The wallet bugs, in particular, lead us to research how we can make writing and deploying software as safe as possible. [Read more](https://paritytech.io/new-smart-contract-development-processes/)."
+      },
+      {
+        "title":"Our commitment to Ethereum and a decentralised future",
+        "background":"https://raw.githubusercontent.com/paritytech/parity-news/c22664bbad2c2d6fb2b8b56a996b5ae9e301cf79/images/birds.jpg",
+        "markdown":"We are early pioneers in a new industry where software is money, and one oversight can cost millions to the very users we work so hard to support. We started Parity Technologies in 2015 with the goal to build the fastest and most secure software for Ethereum and the decentral web. This was before there was mainstream interest in blockchain and Ethereum. We were excited to pioneer technologies that enabled others to explore these promising technologies. Attention grew rapidly and so did the value at stake — much faster than anyone had expected. [Read more](https://paritytech.io/our-commitment-to-ethereum-and-a-decentralised-future/)."
+      },
+      {
+        "title":"Cold Storage: Parity Signer and MyCrypto",
+        "background":"https://raw.githubusercontent.com/paritytech/parity-news/c22664bbad2c2d6fb2b8b56a996b5ae9e301cf79/images/cold.jpg",
+        "markdown":"Parity Signer, available for [iOS](https://itunes.apple.com/us/app/parity-signer/id1218174838) and [Android](https://play.google.com/store/apps/details?id=com.nativesigner), is an offline mobile app that securely generates and stores your private keys. Most mobile wallets connect to the internet, but Parity Signer gives you one extra layer of security: it never connects to the internet and can be used air-gapped. [Read more](https://paritytech.io/send-transactions-with-mycrypto-beta-and-parity-signer/)."
       },
       {
         "title":"Kovan Network",
